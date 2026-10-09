@@ -18,29 +18,6 @@ I can use *italic text* to emphasize a word or phrase.
 
 > Networking allows computers to communicate and share information with each other.
 
-## Ordered Lists
-
-1. Open GitHub.
-2. Create a repository.
-3. Add a README.md file.
-4. Commit the changes.
-
-### Nested Ordered List
-
-1. Learn networking.
-   1. Study IP addresses.
-   2. Practice subnetting.
-2. Learn cybersecurity.
-
-## Unordered Lists
-
-- Computer networks
-- IP addressing
-- Network security
-  - Firewalls
-  - Encryption
-- Troubleshooting
-
 ## Inline Code
 
 The `ipconfig` command displays network configuration information on Windows.
@@ -52,11 +29,10 @@ The `ping` command can be used to test connectivity to another device.
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## Task List
-
-- [x] Learn basic Markdown syntax
-- [x] Practice headings and lists
-- [ ] Review Markdown formatting
-- [ ] Update the repository
+Learn basic Markdown syntax
+Practice headings and lists
+Review Markdown formatting
+Update the repository
 
 ## Conclusion
 
